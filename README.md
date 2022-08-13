@@ -1,6 +1,5 @@
 ## Иванова Светлана Олеговна
-
-![фото](D:/фото Свеа/Командировка в Питер 2022 (31.07-6.08)/20220731_160837.jpg)
+<img src="https://drive.google.com/uc?export=view&id=1Bzf6SThM9nS5HyHjWAKbhF6AYVqY6Vga" height="300"/>
 
 Дата рождения: 02.10.1997
 
